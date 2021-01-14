@@ -1,1 +1,3 @@
-# Recruitment-Process-Automation-web-app-
+# Recruitment-Process-Automation-web-app
+
+In this project MERN stack technologies are used to develop an application which can help organization to register and use it for recruitment process. This application enable user to register itself, design apptitude test, send to candidates through email, conudct test on  this website through automatically generated URL, can view the results and store candidates data as long as they want.
