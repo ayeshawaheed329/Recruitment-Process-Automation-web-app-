@@ -1,0 +1,178 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swa");
+body {
+  font-family: "Source Sans Pro", sans-serif !important;
+}
+textarea {
+  resize: none;
+}
+Link {
+  text-decoration: none;
+}
+Link:hover {
+  text-decoration: none;
+}
+.organization-logo {
+  width: 80px;
+  height: 30px;
+
+  line-height: 0;
+  text-align: center;
+}
+.container-fluid {
+  overflow-x: hidden !important;
+}
+.main-sidebar {
+  background-color: #28395a;
+  color: #ffffff;
+  height: 100%;
+  /* height: 2000px !important; */
+}
+.nav-link p {
+  color: #ffffff !important;
+}
+.bttns {
+  background-color: #28395a !important;
+  color: #ffffff !important;
+}
+.bttns:hover {
+  background-color: #808080 !important;
+  color: #ffffff !important;
+  text-decoration: none !important;
+}
+.portalbtn {
+  background-color: #28395a;
+  color: #ffffff;
+  padding-left: 35px;
+  padding-right: 35px;
+  float: right;
+}
+.portalbtn:hover {
+  background-color: #808080;
+  color: #ffffff;
+}
+.nav-link {
+  left: 0 !important;
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+}
+/* .table-hover tbody tr td {
+    align-items: center;
+    text-align: center;
+}
+
+
+.table-hover thead tr th {
+    text-align: center;
+} */
+.content-wrapper {
+  height: 700px !important;
+}
+.footer-logo {
+  height: 80px;
+}
+.aside-set {
+  height: 520px !important;
+}
+/* .content-header {
+  background-color: #28395a;
+} */
+.testLogo {
+  width: 100px;
+  height: 45px;
+}
+.timer {
+  color: #ffffff;
+  font-weight: bold;
+}
+.termPge {
+  background-color: #808080;
+  width: 100% !important;
+  height: 100% !important;
+  border: 2px solid #808080;
+}
+.termForm {
+  background-color: #ffffff;
+}
+.pagebody {
+  font-size: 15px;
+}
+
+.testSubmit {
+  background-color: #28395a;
+}
+.editForm {
+  color: #000000 !important;
+  width: 98% !important;
+  resize: none !important;
+  /* height: 20px !important; */
+}
+.questionlabels {
+  color: #000000 !important;
+}
+.ediFormOptions {
+  color: #000000 !important;
+  width: 96% !important;
+  resize: none !important;
+  /* width: 400px !important; */
+}
+.ProfileTxT {
+  color: #000000 !important;
+  resize: none !important;
+  height: 40px !important;
+}
+.ProfileLogo {
+  color: #000000 !important;
+  resize: none !important;
+  height: 90px !important;
+}
+.correctOption {
+  color: #000000 !important;
+  width: 30% !important;
+  resize: none !important;
+  height: 27px !important;
+}
+.editForm label {
+  margin-left: 10px;
+}
+#question::placeholder {
+  color: black;
+}
+#option1::placeholder {
+  color: black;
+}
+#option2::placeholder {
+  color: black;
+}
+#option3::placeholder {
+  color: black;
+}
+#option4::placeholder {
+  color: black;
+}
+.correctAns {
+  color: #28395a;
+  font-weight: bold;
+}
+#correct {
+  color: #28395a;
+  border-bottom: 2px solid #808080;
+  text-align: center;
+  width: 30%;
+}
+#correct::placeholder {
+  color: black;
+}
+.CongartsImg1 {
+  height: 50px;
+  width: 50px;
+}
+
+.NavDropdown-toggle::after {
+  content: none;
+}
+.main-header {
+  height: 60px !important;
+}
+.NavDropdown:hover {
+  background-color: #28395a;
+}

@@ -1,0 +1,99 @@
+.navbar-nav  {
+font-size: 15px;
+font-weight: 500;
+color:black;
+background-color: #ffffff;
+}
+.nav-item a {
+    color: black;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+.nav-item a:hover {
+    color: #28395a;
+    font-size: 17px;
+}
+.nav-link {
+    color: #000000;
+    font-weight: 700;
+}
+.nav-link:hover {
+    color:#28395a;
+}
+.navBtn {
+    color: #ffffff;
+    background-color: #28395a;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 100px;  
+    height: 40px; 
+    border: 1px solid #28395a;
+}
+.navBtn:hover {
+    background-color: #808080;
+    color:#ffffff;
+    border: 1px solid #808080;
+}
+.routerLink {
+    color: #ffffff;
+    
+}
+.routerLink:hover{
+    text-decoration: none;
+    color: #ffffff;
+}
+.footer-logo {
+    width: 200px;
+    height: 100px;
+}
+.menu-wrapper {
+    font-size: 20px;
+    font-weight: 500;
+}
+.main-menu {
+    font-size: 10px;
+    margin-top: 10px;
+}
+.NavLogo {
+    /* vertical-align: top; */
+    /* display: inline-block; */
+    border: 5px solid blue;
+    position: relative;
+    width: 10px;
+    /* margin-top: -10px; */
+}
+.headder-top {
+    vertical-align: top;
+    border:2px solid green;
+    height: 5rem;
+  
+    /* height: 70px; */
+}
+
+.contactForm h1 {
+    color:#28395a;
+    font-size: 26px;
+    font-weight:700 ;
+}
+.smallLink {
+    color: #28395a;
+    font-weight: 700;
+}
+.signinBtn {
+    color: white;
+    
+}
+.notes {
+    color: #28395a;
+    font-weight: 500;
+    font-size: 12px;
+    margin-left:30px
+}
+.forgetPassword {
+    color: #28395a;
+    font-weight: 700;
+    float: right;
+}
+.contact100-form-title {
+    font-weight: bold;
+}
